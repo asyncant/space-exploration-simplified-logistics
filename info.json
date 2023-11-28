@@ -1,0 +1,12 @@
+{
+  "author": "asyncant",
+  "dependencies": [
+    "base >= 1.1.91",
+    "? space-exploration >= 0.6.113"
+  ],
+  "description": "Simplifies the logistics technologies in space exploration to be able to research them before going to space.",
+  "factorio_version": "1.1",
+  "name": "space-exploration-simplified-logistics",
+  "title": "Space exploration simplified logistics",
+  "version": "1.0.0"
+}
